@@ -25,5 +25,5 @@ Mingw derleyicisinde C++ kullanılarak geliştirilmiştir.
     * Parametre olarak oda kayit islem nesnesini almaktadır.
 
 ## Farklı Girdilere Karşı Programın Verdiği Mesajlar
-    ##### Müşteri veya Oda kayıtlarının tutulduğu dosya yoksa kullanıcıya gerekli dosyanın olmadığı uyarısı gösterilir.
-    ![GitHub Logo](/img/Otel1.png)
+    Müşteri veya Oda kayıtlarının tutulduğu dosya yoksa kullanıcıya gerekli dosyanın olmadığı uyarısı gösterilir.
+    ![GitHub Logo](img/Hata1.jpg)
