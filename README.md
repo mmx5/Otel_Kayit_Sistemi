@@ -26,4 +26,4 @@ Mingw derleyicisinde C++ kullanılarak geliştirilmiştir.
 
 ## Farklı Girdilere Karşı Programın Verdiği Mesajlar
     ##### Müşteri veya Oda kayıtlarının tutulduğu dosya yoksa kullanıcıya gerekli dosyanın olmadığı uyarısı gösterilir.
-    ![GitHub Logo](/img/Otel1.jpg)
+    ![Otel1](https://user-images.githubusercontent.com/37847133/60294575-5c6f8780-992a-11e9-89f5-b42b24b92dc9.JPG)
