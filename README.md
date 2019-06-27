@@ -27,4 +27,7 @@ Mingw derleyicisinde C++ kullanılarak geliştirilmiştir.
 ## Farklı Girdilere Karşı Programın Verdiği Mesajlar
 - Müşteri veya Oda kayıtlarının tutulduğu dosya yoksa kullanıcıya gerekli dosyanın olmadığı uyarısı gösterilir.
     ![Hata Resmi](img/Hata1.jpg)
-
+- Oda silme işleminde eğer silinmek istenen odada müşteri kaydı varsa hata mesajı vermektedir.
+    ![Hata Resmi](img/Hata2.jpg)
+- Müşteri silme işleminde eğer silinmek istenen müşterinin herhangi bir odada kaydı bulunuyorda hata mesajı verilir.
+    ![Hata Resmi](img/Hata3.jpg)
