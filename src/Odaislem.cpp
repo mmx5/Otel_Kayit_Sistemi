@@ -161,7 +161,7 @@ void Odaislem::OdaListele()
 		} while (secim != 99);
 	}
 	else
-		cout << "OdaListe.txt bulunamadı\n";
+		cout << "OdaListe.txt bulunamadi\n";
 	
 	
 	
