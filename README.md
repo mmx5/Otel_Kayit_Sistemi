@@ -29,5 +29,7 @@ Mingw derleyicisinde C++ kullanılarak geliştirilmiştir.
     ![Hata Resmi](img/Hata1.jpg)
 - Oda silme işleminde eğer silinmek istenen odada müşteri kaydı varsa hata mesajı vermektedir.
     ![Hata Resmi](img/Hata2.jpg)
-- Müşteri silme işleminde eğer silinmek istenen müşterinin herhangi bir odada kaydı bulunuyorda hata mesajı verilir.
+- Müşteri silme işleminde eğer silinmek istenen müşterinin herhangi bir odada kaydı bulunuyorsa hata mesajı verilir.
     ![Hata Resmi](img/Hata3.jpg)
+- Müşteri ekleme işleminde eğer eklenmek istenen müşterinin müşteri numarası veya tc kimlik numarası daha önce kaydedilmiş bir müşterininki ile aynı ise hata mesajı gösterilmektedir.
+    ![Hata Resmi](img/Hata4.jpg)
