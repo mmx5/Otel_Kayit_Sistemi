@@ -1,5 +1,9 @@
 # Otel_Kayit_Sistemi
-Mingw derleyicisinde C++ kullanılarak geliştirilmiştir.
+ Microsoft Visual Studio Communtiy 2019
+ Sürüm 16.1.1
+ C++ kullanılarak yapılmıştır.
+ Yapılma tarihi: 20.06.2019
+ Yazar: Enes Sirkecioğlu
 
 ## Sınıflar ve Kullanım Amaçları
 
