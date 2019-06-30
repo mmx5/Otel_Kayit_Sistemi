@@ -28,7 +28,7 @@
 * Bu sınıf içerisinde odaya müşteri atama ve odadan müşteri kaydı silme fonksiyonları yer almaktadır.
 * Parametre olarak oda kayit islem nesnesini almaktadır.
 
-## Farklı Girdilere Karşı Programın Verdiği Mesajlar
+## Farklı Girdilere Karşı Programın Verdiği Uyarı Mesajları
 - Müşteri veya Oda kayıtlarının tutulduğu dosya yoksa kullanıcıya gerekli dosyanın olmadığı uyarısı gösterilir.
     ![Hata Resmi](img/Hata1.jpg)
 - Oda silme işleminde eğer silinmek istenen odada müşteri kaydı varsa hata mesajı vermektedir.
