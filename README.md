@@ -1,9 +1,10 @@
 # Otel_Kayit_Sistemi
- Microsoft Visual Studio Communtiy 2019
- Sürüm 16.1.1
+ > * _ _Microsoft Visual Studio Communtiy 2019
+ Sürüm 16.1.1_ _
  C++ kullanılarak yapılmıştır.
- Yapılma tarihi: 20.06.2019
- Yazar: Enes Sirkecioğlu
+ > * _ _Mingw derleyicisinde derlenmiştir._ _
+ > * Yapılma tarihi: 20.06.2019
+ > * Yazar: Enes Sirkecioğlu
 
 ## Sınıflar ve Kullanım Amaçları
 
