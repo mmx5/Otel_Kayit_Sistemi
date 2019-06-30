@@ -1,5 +1,9 @@
 # Otel_Kayit_Sistemi
-Mingw derleyicisinde C++ kullanılarak geliştirilmiştir.
+ Microsoft Visual Studio Communtiy 2019
+ Sürüm 16.1.1
+ C++ kullanılarak yapılmıştır.
+ Yapılma tarihi: 20.06.2019
+ Yazar: Enes Sirkecioğlu
 
 ## Sınıflar ve Kullanım Amaçları
 
@@ -24,7 +28,7 @@ Mingw derleyicisinde C++ kullanılarak geliştirilmiştir.
 * Bu sınıf içerisinde odaya müşteri atama ve odadan müşteri kaydı silme fonksiyonları yer almaktadır.
 * Parametre olarak oda kayit islem nesnesini almaktadır.
 
-## Farklı Girdilere Karşı Programın Verdiği Mesajlar
+## Farklı Girdilere Karşı Programın Verdiği Uyarı Mesajları
 - Müşteri veya Oda kayıtlarının tutulduğu dosya yoksa kullanıcıya gerekli dosyanın olmadığı uyarısı gösterilir.
     ![Hata Resmi](img/Hata1.jpg)
 - Oda silme işleminde eğer silinmek istenen odada müşteri kaydı varsa hata mesajı vermektedir.
