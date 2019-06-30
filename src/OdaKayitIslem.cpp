@@ -11,6 +11,18 @@ void OdaKayitIslem::OdayaMusteriEkle()
     cout << "Odaya Musteri Ekleme Islemi";
 	cout << "\n---------------------------\n";
 
+	cout << "\n------------ ODA LISTESI ------------\n";
+	ifstream liste;
+	liste.open("OdaListe.txt");
+	string list;
+	while (!liste.eof())
+	{
+		getline(liste,list);
+		cout<<list<<endl;
+	}
+
+	liste.close();
+
 	string girdi1, girdi2, veri1, veri2;
 
 	bool girdiKontrol = false;
